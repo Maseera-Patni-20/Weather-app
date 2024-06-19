@@ -4,8 +4,6 @@
 
 <p>Weathy is a desktop weather application built with Python and tkinter, utilizing the OpenWeatherMap API for real-time weather data retrieval. The application offers a user-friendly graphical interface to display weather information, including temperature, wind speed, humidity, and atmospheric pressure. It also features dynamic background changes based on current weather conditions.</p>
 
-<img src="screenshots/weathy_screenshot.png" alt="Weathy Screenshot" style="max-width: 100%;">
-
 <h2>Table of Contents</h2>
 
 <ul>
